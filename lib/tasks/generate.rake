@@ -1,4 +1,4 @@
-$:.unshift "#{File.dirname(__FILE__)}/../lib"
+$:.unshift "#{File.dirname(__FILE__)}/.."
 
 require 'captcha_image_generator'
 
